@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "318358853850",
+    "firebase_url": "https://xvideo-80665.firebaseio.com",
+    "project_id": "xvideo-80665",
+    "storage_bucket": "xvideo-80665.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318358853850:android:7e1ab9d0b2c0f3f2",
+        "android_client_info": {
+          "package_name": "com.xvideo.xvideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318358853850-hof3kfb1r89rkp6ojj7eep0d12asalh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZHKZEZKpdstLOOd92GBd3p52u0RBZBpA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
